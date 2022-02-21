@@ -1,0 +1,89 @@
+AMUDA, IFEOLUWA OPEYEMI
+Address: House 1, Efab Estate Life Camp, Abuja, Nigeria, 900108
+Tel: 0803-925-4192 | Email: info.htreasure@gmail.com
+
+ SYSTEM ADMINISTRATOR 
+Offering 12+ years of outstanding career across various roles, including hardware engineering, network and systems administration. Adept at planning, installing, configuring, and optimizing IT infrastructure to attain high performance and availability. Proactive, resourceful, and extensively trained and certified IT professional with experience managing server infrastructure and data-centre operations across various platforms, including Windows and Linux. Seeking to leverage extensive academic background and experience into the position of a system administrator with a forward-thinking firm.
+Areas of Expertise:
+     Hardware & Software Management	     System Installation, Upgrade & Configuration
+     Virtualization Technology		     Database Management Systems (DBMS)
+     Server Maintenance			     System Security, Backup & Recovery
+     TCP & IP Protocols			     Network Design & Administration
+PROFESSIONAL EXPERIENCE
+BRIGHT 98.7 FM – Gwarinpa, Abuja	2021 – Present
+Network Administrator
+Administer, configure, and maintain LAN and WAN networks and wireless services for a company of 20+ staff; plan, coordinate and implement network security measures; identify and promptly resolve network device issues, including firewalls, routers, and streaming devices; maintain network hardware and software, and monitor network to support network availability to end users; create and manage virtual server computing environment using Proxmax infrastructure and management tools.
+Key Achievements:
+    • Planned, designed, and implemented company LAN, resulting in 30% efficiency.
+    • Led the development of an android mobile app, which increased listening audience by 5%.
+    • Implemented HTTP Live Streaming (HLS), enabling the station to broadcast on radio and online.
+    • Introduced folder redirection on Domain controller, protecting the organization from financial loss due to Ransomware attacks.
+BRIECH DATA – Maitama, Abuja	2021 – Present
+Data Center Manager
+Plan, develop and execute technical strategies in line with clients’ objectives; update and strengthen existing systems (billing automation, accounting, etc.) against security breaches and data loss; lead upgrade projects, software engineering and development teams; establish standards, determine specifications, and create operational and service level agreements; implement enterprise security strategies for network and hardware, disaster recovery, data protection and endpoint protection; develop and implement business intelligence systems; implement and manage wireless devices and multi-site network infrastructure.
+Key Achievements:
+    • Led the laying of fiber optic cables to TStv Africa (One of the company's major clients), reducing network downtime by 40%, a usual occurrence in rainy seasons, as a result of shift in radio and thunder effect.
+    • Implemented point to multiple points from the point of presence to different customers' locations.
+TSTV – Abuja	2020 – Present
+Tech Manager | Team Lead
+Manage multi-department rollout of robust, flexible, and secure electronic data interchange; implement technological improvements resulting in increased efficiency; lead cross functional project teams; identify and mitigate project risks; designed, implement and monitor integration between applications while coordinating updates and developing test cases.
+Key Achievements:
+    • Introduced practical training, which increased employee productivity by over 30%.
+    • Reduced maintenance cost by 65% and buffering by 85% through HLS implementation.
+    • Revamped the content sharing (using Proxmax virtualization environment), resulting in 25% productivity boost and 60% reduction in maintenance time.
+    • Delivered android app development after a 24-month delay, which now serves as a major source of revenue to the company.
+AFE BABALOLA UNIVERSITY – Ado Ekiti	2017 – 2019
+Network Administrator
+    • Managed data backups and disaster recovery operations for a company with 150 staff strength.
+    • Monitored data transfer security to detect and prevent intrusion attempts and respond to DDoS attacks.
+    • Provided network support services for devices such as hubs, bridges, routers, and other hardware.
+    • Monitored network capacity and performance to diagnose and resolve complex network problems.
+    • Integrated fixed wireless connectivity into facilities lacking access to terrestrial high-speed networks.
+    • Provided complete end-to-end engineering and installation of route-based IP network solutions.
+    • Coordinated and supervised 100 external IT consultants and vendors.
+HIDDEN TREASURE COMPUTERS LTD – Lagos	2011 – 2016
+System Network Administrator
+Planned, developed, installed, configured, upgraded, maintained and optimized networks to ensure stable and optimal operation; maintained IT systems, including hardware, software and networks for 50+ clients; Designed and evaluated WAN and LAN connectivity technologies; diagnosed and resolved network and server issues; implemented, developed and tested installation and update of file servers, print servers and application servers in all departments; optimized system security and performance with proactive changes such as timely update of security patches and system update.
+Key Achievements:
+    • Initiated a robust and secure Wi-Fi network which has prevented unauthorized access to the network.
+    • Introduced test Lab to enable the test team in testing out software and applications before deployment.
+    • Implemented CBT center solution and software, which has generated over ₦20M and ₦5M profit respectively.
+GUARANTY TRUST BANK PLC – Victoria Island, Lagos	2009 – 2010
+Hardware Engineering Intern
+    • Ensured computer systems run optimally with minimal downtime.
+    • Evaluated hardware and software requirements for new system development.
+    • Performed preventive and corrective maintenance on systems: hardware, software, and networks.
+    • Designed computer systems and components, including power supplies, heat sinks, hard-drives, and IC boards.
+AJAYI CROWTHER UNIVERSITY – Oyo	Jan – Feb 2009
+Hardware Technician
+    • Implemented computer projects and installations to improve workflow for 50+ employees.
+    • Maintained, configured, modified, upgraded, and diagnosed faults in hardware components.
+    • Developed long-term strategies and capacity planning for meeting future computer hardware needs.
+    • Maintained detailed documentation through all phases of development, testing and analysis to enhance organizational productivity.
+EDUCATION
+B.Sc. Computer Science, Olabisi Onabanjo University, Ago Iwoye, 2009
+Diploma in Data Processing, Olabisi Onabanjo University, Ago Iwoye, 2005
+Senior Secondary School Certificate, School of Science, Oyo, 2004
+CERTIFICATION & TRAINING
+    • 2021: Certified Secure Computer User V2 – EC-Council
+    • 2021: NSE 1 Network Security Associate – Fortinet NSE Institute
+    • 2021: Foundational Course in Data Protection and Data Privacy – NG Unique Resource Solutions
+    • 2020: Certified Computer Networking, Digital Network Security – Alison
+    • 2020: AWS Cloud Fundamentals for System Administrators – Udemy
+    • 2020: Windows Operating System Fundamentals – Digital Nigeria
+    • 2020: Participate Safely and Responsibly Online – Digital Nigeria
+    • 2020: Introduction to Windows Server Administration – Alison
+    • 2020: Introduction to Server Administration Services – Alison
+    • 2020: Software Development Fundamentals – Digital Nigeria
+    • 2020: Python and Django Framework for Beginners – Udemy
+    • 2020: Introduction to Internet of Things and Cloud – Udemy
+    • 2020: Networking Fundamentals – Digital Nigeria
+    • 2020: Cybersecurity Essentials – ICSI
+    • 2020: IT Security – Digital Nigeria
+    • 2020: Microsoft Teams – Alison
+ADDITIONAL SKILLS
+    • Proficient with virtualization tools (VMware, Proxmox), Open-Source software, Pfsense, LAN and WAN
+    • Team player with superior analytical, diagnostic, and troubleshooting skills
+    • Familiar with Windows and Linux Operating Systems
+
+References Available on Request.
